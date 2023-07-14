@@ -22,4 +22,6 @@ At different parts of the tutorial, we will be downloading pre-trained text, ima
 
 Time constraints mean that we are rarely able to get to showcasing the full capabilities of these approaches - luckily for you, the material is an abrdiged version of a 10 week course, and an upcoming textbook titled "Thinking with Deep Learning". 
 
-In this repository, you will find the homework exercises for the Spring 2021 version of the course, with added material in there for you to explore. Each week covers a different modality or domain of deep learning applied to social scientific or natural science datasets.
+In this repository, you will find the homework exercises for the Spring 2022 version of the course, with added material in there for you to explore. Each week covers a different modality or domain of deep learning applied to social scientific or natural science datasets.
+
+This is a link to the the github repo where you can also find data: https://github.com/Thinking-with-Deep-Learning-Spring-2022
