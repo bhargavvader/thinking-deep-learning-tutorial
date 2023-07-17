@@ -6,6 +6,11 @@ The purpose of this tutorial is to introduce deep learning, broadly, to practiti
 
 We will start with the two major deep learning frameworks, Keras and PyTorch, before moving into different data specific examples, with a few illustrations using social data. 
 
+## Link to Tutorial Slides
+
+You can follow along the slides over here: https://drive.google.com/file/d/1SYAh6pyV3TVLnTT9_-Iw78I7N_D6RN7W/view?usp=drive_link
+
+
 ## Tutorial setup and Instructions
 
 The tutorial will be smoothest on Colab, as you will not have to bother with individual package installations. On local, you are expected to have Keras and PyTorch. There are domain specific packages that you should be easily able to grab from PyPi, but as it is a large tutorial, you might not be running everything. 
